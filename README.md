@@ -1,3 +1,5 @@
+Extended with docker container setup.
+
 # LLaMa CPU fork
 
 This is a fork of https://github.com/facebookresearch/llama to run on CPU.
